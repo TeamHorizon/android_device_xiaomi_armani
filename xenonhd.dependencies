@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "TeamHorizon/android_kernel_xiaomi_armani",
+    "target_path": "kernel/xiaomi/armani",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TeamHorizon/proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "n"
+  },
+  {
+    "repository": "LineageOS/android_device_xiaomi_armani",
+    "target_path": "device/xiaomi/armani",
+    "branch": "n"
+  }
+]
